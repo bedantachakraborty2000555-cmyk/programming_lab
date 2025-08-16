@@ -1,3 +1,7 @@
+/*
+Write a C program to print "Adamas University"
+*/
+
 #include<stdio.h>
 
 int main(){
