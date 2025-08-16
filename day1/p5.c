@@ -1,5 +1,5 @@
 /*
-Write a C program to find the ASCII value of a charecter
+Write a C program to find the ASCII value of a character
 */
 
 #include<stdio.h>
