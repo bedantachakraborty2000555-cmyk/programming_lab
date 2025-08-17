@@ -1,11 +1,11 @@
 /*
-Write a C program to print "Adamas University"
+Write a C program to print "ADAMAS UNIVERSITY"
 */
 
 #include<stdio.h>
 
 int main(){
-    printf("Adamas University\n");
+    printf("ADAMAS UNIVERSITY\n");
     
     return 0;
 }
