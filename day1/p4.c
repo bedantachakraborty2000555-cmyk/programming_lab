@@ -2,6 +2,7 @@
 Write a C program to print multiplication table without using loop
 */
 
+
 #include<stdio.h>
 int main(){
     int a;
@@ -19,5 +20,6 @@ int main(){
     printf("%d\n",a*9);
     printf("%d\n",a*10);
     return 0;
+    
     
 }
