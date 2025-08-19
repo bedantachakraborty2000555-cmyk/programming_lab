@@ -1,5 +1,5 @@
 /*
-Write a C program to convert Fahrenheit to celsius the Celcius to fahrenheit
+Write a C program to convert Fahrenheit to celsius and the Celcius to fahrenheit
 */
 
 #include<stdio.h>
