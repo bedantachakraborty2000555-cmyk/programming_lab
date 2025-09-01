@@ -15,7 +15,7 @@ int main(){
     printf("Area of rectangle %d\n",A);
 
     P = 2 * (L + W);
-    printf("perimer of the rectangle %d\n",P);
+    printf("perimeter of the rectangle %d\n",P);
 
     return 0;
 }        
